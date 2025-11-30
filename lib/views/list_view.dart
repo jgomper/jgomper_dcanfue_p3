@@ -5,7 +5,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'detail_view.dart';
 import 'cart_view.dart'; // IMPORTANTE: Importamos el carrito
 
-// --- MODELO ---
+// --- MODELO --- 
 class Perfume {
   final String id;
   final String nombre;
